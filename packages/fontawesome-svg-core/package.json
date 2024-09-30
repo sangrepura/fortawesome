@@ -21,9 +21,9 @@
     "node": ">=6"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-common-types": "^6.2.5"
+    "@fortawesome/fontawesome-common-types": "^6.2.6"
   },
-  "version": "6.2.5",
+  "version": "6.2.6",
   "name": "@fortawesome/fontawesome-svg-core",
   "main": "index.js",
   "module": "index.mjs",
@@ -73,5 +73,5 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
-  "gitHead": "49bb2251d4d7b10658c49ed30abb4db5a109203a"
+  "gitHead": "99dc0cbb797bbcaba5a37078c3ff33438b0e6add"
 }

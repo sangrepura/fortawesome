@@ -20,7 +20,7 @@
   "engines": {
     "node": ">=6"
   },
-  "version": "6.2.5",
+  "version": "6.2.6",
   "name": "@fortawesome/fontawesome-pro",
   "main": "js/fontawesome.js",
   "style": "css/fontawesome.css",
@@ -31,5 +31,5 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
-  "gitHead": "49bb2251d4d7b10658c49ed30abb4db5a109203a"
+  "gitHead": "99dc0cbb797bbcaba5a37078c3ff33438b0e6add"
 }
