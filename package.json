@@ -1,13 +1,25 @@
 {
   "name": "fortawesome",
   "private": true,
-  "version": "6.2.0",
+  "version": "1.0.0",
+  "scripts": {
+    "publish:all": "lerna publish --exact --yes",
+    "version": "lerna version"
+  },
   "workspaces": [
-    "packages/fontawesome-common-types",
-    "packages/fontawesome-pro",
-    "packages/fontawesome-svg-core",
-    "packages/pro-duotone-svg-icons",
-    "packages/pro-regular-svg-icons",
-    "packages/pro-solid-svg-icons"
-  ]
+    "@fortawesome/fontawesome-common-types",
+    "@fortawesome/fontawesome-pro",
+    "@fortawesome/fontawesome-svg-core",
+    "@fortawesome/pro-duotone-svg-icons",
+    "@fortawesome/pro-regular-svg-icons",
+    "@fortawesome/pro-solid-svg-icons"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "license": "MIT",
+  "packageManager": "pnpm@9.10.0+sha512.73a29afa36a0d092ece5271de5177ecbf8318d454ecd701343131b8ebc0c1a91c487da46ab77c8e596d6acf1461e3594ced4becedf8921b074fbd8653ed7051c",
+  "devDependencies": {
+    "lerna": "^8.1.8"
+  }
 }
