@@ -21,10 +21,10 @@
     "node": ">=6"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-common-types": "^6.2.6"
+    "@sangrepura/fontawesome-common-types": "^6.2.0"
   },
-  "version": "6.2.6",
-  "name": "@fortawesome/pro-regular-svg-icons",
+  "version": "6.2.0",
+  "name": "@sangrepura/pro-regular-svg-icons",
   "main": "index.js",
   "module": "index.mjs",
   "jsnext:main": "index.mjs",
@@ -56,5 +56,5 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
-  "gitHead": "99dc0cbb797bbcaba5a37078c3ff33438b0e6add"
+  "gitHead": "8f8f49f2041809b8ccddbad1da4d07853f0a7395"
 }
