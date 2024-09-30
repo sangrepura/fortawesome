@@ -1,6 +1,6 @@
 {
   "name": "@sangrepura/fortawesome",
-  "version": "1.0.0",
+  "version": "6.2.0",
   "scripts": {
     "publish:all": "lerna publish --yes  --force-publish",
     "version": "lerna version"
