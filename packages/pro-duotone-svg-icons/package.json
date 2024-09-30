@@ -21,9 +21,9 @@
     "node": ">=6"
   },
   "dependencies": {
-    "@sangrepura/fontawesome-common-types": "^6.2.3"
+    "@sangrepura/fontawesome-common-types": "^6.2.0"
   },
-  "version": "6.2.3",
+  "version": "6.2.0",
   "name": "@sangrepura/pro-duotone-svg-icons",
   "main": "index.js",
   "module": "index.mjs",
