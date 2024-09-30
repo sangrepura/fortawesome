@@ -21,9 +21,9 @@
     "node": ">=6"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-common-types": "^6.2.4"
+    "@fortawesome/fontawesome-common-types": "^6.2.5"
   },
-  "version": "6.2.4",
+  "version": "6.2.5",
   "name": "@fortawesome/pro-solid-svg-icons",
   "main": "index.js",
   "module": "index.mjs",
@@ -56,5 +56,5 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
-  "gitHead": "9c7b847748249b5d311cdd5717287d79d6a05180"
+  "gitHead": "49bb2251d4d7b10658c49ed30abb4db5a109203a"
 }
