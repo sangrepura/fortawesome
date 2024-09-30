@@ -20,7 +20,7 @@
   "engines": {
     "node": ">=6"
   },
-  "version": "6.2.3",
+  "version": "6.2.4",
   "name": "@fortawesome/fontawesome-common-types",
   "license": "MIT",
   "types": "./index.d.ts",
@@ -30,5 +30,5 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
-  "gitHead": "e84a82613d619c39a0716ff48a150821fb19e7c1"
+  "gitHead": "9c7b847748249b5d311cdd5717287d79d6a05180"
 }
