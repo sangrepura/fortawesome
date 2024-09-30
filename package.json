@@ -3,11 +3,11 @@
   "private": true,
   "version": "1.0.0",
   "workspaces": [
-    "packages/fontawesome-common-types",
-    "packages/fontawesome-pro",
-    "packages/fontawesome-svg-core",
-    "packages/pro-duotone-svg-icons",
-    "packages/pro-regular-svg-icons",
-    "packages/pro-solid-svg-icons"
+    "@fortawesome/fontawesome-common-types",
+    "@fortawesome/fontawesome-pro",
+    "@fortawesome/fontawesome-svg-core",
+    "@fortawesome/pro-duotone-svg-icons",
+    "@fortawesome/pro-regular-svg-icons",
+    "@fortawesome/pro-solid-svg-icons"
   ]
 }
