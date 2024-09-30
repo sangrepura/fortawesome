@@ -21,9 +21,9 @@
     "node": ">=6"
   },
   "dependencies": {
-    "@sangrepura/fontawesome-common-types": "^6.2.0"
+    "@sangrepura/fontawesome-common-types": "^6.2.2"
   },
-  "version": "6.2.0",
+  "version": "6.2.2",
   "name": "@sangrepura/pro-regular-svg-icons",
   "main": "index.js",
   "module": "index.mjs",
