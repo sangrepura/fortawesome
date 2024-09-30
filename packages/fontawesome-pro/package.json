@@ -20,12 +20,15 @@
   "engines": {
     "node": ">=6"
   },
-  "version": "6.2.1",
+  "version": "6.2.2",
   "name": "@fortawesome/fontawesome-pro",
   "main": "js/fontawesome.js",
   "style": "css/fontawesome.css",
   "license": "UNLICENSED",
   "scripts": {
     "postinstall": "node attribution.js"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }

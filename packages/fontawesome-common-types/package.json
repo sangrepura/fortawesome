@@ -20,11 +20,14 @@
   "engines": {
     "node": ">=6"
   },
-  "version": "6.2.1",
+  "version": "6.2.2",
   "name": "@fortawesome/fontawesome-common-types",
   "license": "MIT",
   "types": "./index.d.ts",
   "scripts": {
     "postinstall": "node attribution.js"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }
