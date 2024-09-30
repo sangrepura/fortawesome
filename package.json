@@ -1,0 +1,13 @@
+{
+  "name": "fortawesome",
+  "private": true,
+  "version": "1.0.0",
+  "workspaces": [
+    "packages/fontawesome-common-types",
+    "packages/fontawesome-pro",
+    "packages/fontawesome-svg-core",
+    "packages/pro-duotone-svg-icons",
+    "packages/pro-regular-svg-icons",
+    "packages/pro-solid-svg-icons"
+  ]
+}
