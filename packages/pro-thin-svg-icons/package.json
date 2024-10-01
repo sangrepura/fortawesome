@@ -23,7 +23,7 @@
   "dependencies": {
     "@fortawesome/fontawesome-common-types": "6.1.2"
   },
-  "version": "6.2.2",
+  "version": "6.4.0",
   "name": "@sangrepura/pro-thin-svg-icons",
   "main": "index.js",
   "module": "index.es.js",

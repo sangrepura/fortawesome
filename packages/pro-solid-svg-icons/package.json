@@ -23,7 +23,7 @@
   "dependencies": {
     "@fortawesome/fontawesome-common-types": "6.3.0"
   },
-  "version": "6.3.0",
+  "version": "6.4.0",
   "name": "@sangrepura/pro-solid-svg-icons",
   "main": "index.js",
   "module": "index.mjs",
