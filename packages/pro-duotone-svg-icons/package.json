@@ -21,9 +21,9 @@
     "node": ">=6"
   },
   "dependencies": {
-    "@sangrepura/fontawesome-common-types": "^6.2.2"
+    "@fortawesome/fontawesome-common-types": "6.4.0"
   },
-  "version": "6.2.2",
+  "version": "6.4.0",
   "name": "@sangrepura/pro-duotone-svg-icons",
   "main": "index.js",
   "module": "index.mjs",
@@ -50,11 +50,10 @@
     "./package.json": "./package.json",
     "./*": "./*.js"
   },
-  "scripts": {
-    "postinstall": "node attribution.js"
-  },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
-  "gitHead": "f72bd8e5c31133f3d2020c0f0ee7bdaf3f43134a"
+  "scripts": {
+    "postinstall": "node attribution.js"
+  }
 }
